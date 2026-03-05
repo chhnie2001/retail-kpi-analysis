@@ -1,0 +1,11 @@
+# data files (do not commit)
+data/online_retail.xlsx
+data/online_retail.xls
+data/online_retail.csv
+data/clean_retail.csv
+data/*.xlsx
+data/*.xls
+data/*.csv
+
+# jupyter
+.ipynb_checkpoints/
